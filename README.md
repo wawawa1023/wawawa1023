@@ -16,7 +16,6 @@
 - その他：Docker / Git / Linux / numpy / pytorch
 
 ## 📫 連絡先
-- ✉️ Email: miyaryousuke1023@gmail.com
 - 🐙 GitHub: [@wawawa1023](https://github.com/wawawa1023)
 
 ## 📝 その他
