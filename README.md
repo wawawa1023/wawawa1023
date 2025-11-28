@@ -14,6 +14,7 @@
 - 言語：C / Python / PHP / JavaScript / Ruby
 - フレームワーク：Laravel / Vue.js / Rails
 - その他：Docker / Git / Linux / numpy / pytorch
+-![](https://github-readme-stats.vercel.app/api/top-langs?wawawa1023=yukimura-manase&show_icons=true&locale=en&layout=compact)
 
 ## 📫 連絡先
 - 🐙 GitHub: [@wawawa1023](https://github.com/wawawa1023)
