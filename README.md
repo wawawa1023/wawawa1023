@@ -1,5 +1,5 @@
 # 👋 こんにちは、wawawa1023です！
-![](https://github-readme-stats-murex-five-68.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats-wawawa1023s-projects.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact)
 ## 🧑‍💻 プロフィール
 - ⚙️ 専門：電子情報工学・Web開発
 - 🏫 学生エンジニア
