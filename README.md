@@ -1,5 +1,5 @@
 # 👋 こんにちは、wawawa1023です！
-![](https://github-readme-stats-wawawa1023s-projects.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats-wawawa1023s-projects.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact&count_private=true)
 ## 🧑‍💻 プロフィール
 - ⚙️ 専門：電子情報工学・Web開発
 - 🏫 学生エンジニア
