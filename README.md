@@ -1,5 +1,5 @@
 # 👋 こんにちは、wawawa1023です！
-
+![](https://github-readme-stats.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact)
 ## 🧑‍💻 プロフィール
 - ⚙️ 専門：電子情報工学・Web開発
 - 🏫 学生エンジニア
@@ -14,7 +14,6 @@
 - 言語：C / Python / PHP / JavaScript / Ruby
 - フレームワーク：Laravel / Vue.js / Rails
 - その他：Docker / Git / Linux / numpy / pytorch
--![](https://github-readme-stats.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact)
 
 ## 📫 連絡先
 - 🐙 GitHub: [@wawawa1023](https://github.com/wawawa1023)
