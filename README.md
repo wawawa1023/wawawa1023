@@ -11,11 +11,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊  
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-wawawa1023s-projects.vercel.app/api?username=wawawa1023&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats-wawawa1023s-projects.vercel.app/api/top-langs?username=wawawa1023&show_icons=true&locale=en&layout=compact&count_private=true&theme=tokyonight&hide_border=true)
 
